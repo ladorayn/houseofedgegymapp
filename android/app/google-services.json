@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535048481886",
+    "project_id": "house-of-edge-gym",
+    "storage_bucket": "house-of-edge-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535048481886:android:4434c42a46607082ba98cf",
+        "android_client_info": {
+          "package_name": "com.houseofedge.houseofedgegym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535048481886-ku9a5sugkcc0hbkvo4dukv5kb9rp8ds6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTB58pOrhCrARgO8M0nL5rrgN1eZSAlls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535048481886-ku9a5sugkcc0hbkvo4dukv5kb9rp8ds6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
